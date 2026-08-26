@@ -445,6 +445,10 @@ footer {
   margin-bottom: 24px;
 }
 
+.workstream-heading h3 {
+  margin-bottom: 0;
+}
+
 .workstream-heading span {
   color: var(--muted);
   font-size: .8rem;
